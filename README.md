@@ -1,4 +1,4 @@
-# Hello! I'm Oz Ramos and I'm studying art && code by publishing 1 new project everyday, building tools like Handsfree.js, and curating everything I learn and do into this site 🎨💻
+# Hello! I'm Oz Ramos and I'm studying art && code by publishing 1 new project everyday, building tools like Handsfree.js, and creating a hands-free creative coding platform
 <table style="width: 100%">
   <tr>
     <td width="50%">
