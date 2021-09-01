@@ -1,4 +1,4 @@
-# Hello! I'm Oz Ramos and I'm studying art && code by publishing 1 new project everyday, building tools like Handsfree.js, and creating a hands-free creative coding platform
+# Hello! I'm Oz Ramos and I'm studying art && code by publishing 1 new project everyday, building tools like Handsfree.js, and creating a hands-free creative coding platform. Visit my personal site at [CodeMedium.com](https://codemedium.com) for more
 <table style="width: 100%">
   <tr>
     <td width="50%">
