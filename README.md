@@ -1,4 +1,7 @@
-# Hello! I'm Oz Ramos and I'm studying art && code by publishing 1 new project everyday, building tools like Handsfree.js, and creating a hands-free creative coding platform. Visit my personal site at [CodeMedium.com](https://codemedium.com) for more
+# Hello! I'm Oz Ramos and I'm studying art && code by publishing 1 new project everyday, building tools like [Handsfree.js](https://github.com/midiblocks/handsfree), and creating a [hands-free creative coding platform](https://github.com/codemedium/codemedium-editor).
+
+**Find me on** [Twitter](https://twitter.com/semigenerative) * [GitHub](https://github.com/codemedium) * [Processing](https://openprocessing.org/user/282413/) * [Pinterest](https://www.pinterest.com/codemedium) * [YouTube](https://www.youtube.com/channel/UCE1C6juwEopQQeCV2ERF07Q) * [Reddit](https://reddit.com/u/thecodemedium) * [Tumblr](https://codemedium.tumblr.com/) * [Instagram](https://www.instagram.com/thecodemedium/) * [Ko-Fi](https://ko-fi.com/handsfreejs)
+
 <table style="width: 100%">
   <tr>
     <td width="50%">
